@@ -1,0 +1,1918 @@
+{
+    "dataset": [
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-100.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-103.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-105.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-108.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-109.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-111.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-112.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-114.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-116.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-118.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-122.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-123.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-126.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-128.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-132.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-138.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-145.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-146.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-148.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-161.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-165.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-172.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-175.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-176.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-179.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-18.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-180.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-181.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-182.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-186.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-188.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-192.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-194.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-196.jpg"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-197.jpg"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-24.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-34.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-44.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-5.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-6.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-70.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-9.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-91.png"
+        },
+        {
+            "source": "aku",
+            "year": "2021",
+            "file": "aku21-96.png"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-10.png",
+            "lesion-annotations-file": "lsn-aku22-102.json",
+            "teeth-annotations-file": "tth-aku22-102.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-102.png",
+            "lesion-annotations-file": "lsn-aku22-102.json",
+            "teeth-annotations-file": "tth-aku22-102.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-127.png",
+            "lesion-annotations-file": "lsn-aku22-127.json",
+            "teeth-annotations-file": "tth-aku22-127.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-141.png",
+            "lesion-annotations-file": "lsn-aku22-141.json",
+            "teeth-annotations-file": "tth-aku22-141.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-17.png",
+            "lesion-annotations-file": "lsn-aku22-17.json",
+            "teeth-annotations-file": "tth-aku22-17.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-190.png",
+            "lesion-annotations-file": "lsn-aku22-190.json",
+            "teeth-annotations-file": "tth-aku22-190.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-25.png",
+            "lesion-annotations-file": "lsn-aku22-25.json",
+            "teeth-annotations-file": "tth-aku22-25.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-39.png",
+            "lesion-annotations-file": "lsn-aku22-39.json",
+            "teeth-annotations-file": "tth-aku22-39.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-47.png",
+            "lesion-annotations-file": "lsn-aku22-47.json",
+            "teeth-annotations-file": "tth-aku22-47.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-48.png",
+            "lesion-annotations-file": "lsn-aku22-48.json",
+            "teeth-annotations-file": "tth-aku22-48.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-51.png",
+            "lesion-annotations-file": "lsn-aku22-51.json",
+            "teeth-annotations-file": "tth-aku22-51.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-52.png",
+            "lesion-annotations-file": "lsn-aku22-52.json",
+            "teeth-annotations-file": "tth-aku22-52.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-55.png",
+            "lesion-annotations-file": "lsn-aku22-55.json",
+            "teeth-annotations-file": "tth-aku22-55.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-56.png",
+            "lesion-annotations-file": "lsn-aku22-56.json",
+            "teeth-annotations-file": "tth-aku22-56.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-63.png",
+            "lesion-annotations-file": "lsn-aku22-63.json",
+            "teeth-annotations-file": "tth-aku22-63.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-64.png",
+            "lesion-annotations-file": "lsn-aku22-64.json",
+            "teeth-annotations-file": "tth-aku22-64.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-66.png",
+            "lesion-annotations-file": "lsn-aku22-66.json",
+            "teeth-annotations-file": "tth-aku22-66.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-67.png",
+            "lesion-annotations-file": "lsn-aku22-67.json",
+            "teeth-annotations-file": "tth-aku22-67.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-74.png",
+            "lesion-annotations-file": "lsn-aku22-74.json",
+            "teeth-annotations-file": "tth-aku22-74.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-77.png",
+            "lesion-annotations-file": "lsn-aku22-77.json",
+            "teeth-annotations-file": "tth-aku22-77.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-79.png",
+            "lesion-annotations-file": "lsn-aku22-79.json",
+            "teeth-annotations-file": "tth-aku22-79.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-81.png",
+            "lesion-annotations-file": "lsn-aku22-81.json",
+            "teeth-annotations-file": "tth-aku22-81.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-83.png",
+            "lesion-annotations-file": "lsn-aku22-83.json",
+            "teeth-annotations-file": "tth-aku22-83.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-84.png",
+            "lesion-annotations-file": "lsn-aku22-84.json",
+            "teeth-annotations-file": "tth-aku22-84.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-85.png",
+            "lesion-annotations-file": "lsn-aku22-85.json",
+            "teeth-annotations-file": "tth-aku22-85.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-89.png",
+            "lesion-annotations-file": "lsn-aku22-89.json",
+            "teeth-annotations-file": "tth-aku22-89.json"
+        },
+        {
+            "source": "aku",
+            "year": "2022",
+            "file": "aku22-93.png",
+            "lesion-annotations-file": "lsn-aku22-93.json",
+            "teeth-annotations-file": "tth-aku22-93.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-1.png",
+            "lesion-annotations-file": "lsn-rph22-198.json",
+            "teeth-annotations-file": "tth-rph22-198.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-100.png",
+            "lesion-annotations-file": "lsn-rph22-100.json",
+            "teeth-annotations-file": "tth-rph22-100.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-102.png",
+            "lesion-annotations-file": "lsn-rph22-102.json",
+            "teeth-annotations-file": "tth-rph22-102.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-103.png",
+            "lesion-annotations-file": "lsn-rph22-103.json",
+            "teeth-annotations-file": "tth-rph22-103.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-104.png",
+            "lesion-annotations-file": "lsn-rph22-104.json",
+            "teeth-annotations-file": "tth-rph22-104.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-105.png",
+            "lesion-annotations-file": "lsn-rph22-105.json",
+            "teeth-annotations-file": "tth-rph22-105.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-106.png",
+            "lesion-annotations-file": "lsn-rph22-106.json",
+            "teeth-annotations-file": "tth-rph22-106.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-107.png",
+            "lesion-annotations-file": "lsn-rph22-107.json",
+            "teeth-annotations-file": "tth-rph22-107.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-111.png",
+            "lesion-annotations-file": "lsn-rph22-111.json",
+            "teeth-annotations-file": "tth-rph22-111.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-112.png",
+            "lesion-annotations-file": "lsn-rph22-112.json",
+            "teeth-annotations-file": "tth-rph22-112.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-113.png",
+            "lesion-annotations-file": "lsn-rph22-113.json",
+            "teeth-annotations-file": "tth-rph22-113.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-115.png",
+            "lesion-annotations-file": "lsn-rph22-115.json",
+            "teeth-annotations-file": "tth-rph22-115.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-116.png",
+            "lesion-annotations-file": "lsn-rph22-116.json",
+            "teeth-annotations-file": "tth-rph22-116.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-117.png",
+            "lesion-annotations-file": "lsn-rph22-117.json",
+            "teeth-annotations-file": "tth-rph22-117.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-119.png",
+            "lesion-annotations-file": "lsn-rph22-119.json",
+            "teeth-annotations-file": "tth-rph22-119.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-12.png",
+            "lesion-annotations-file": "lsn-rph22-129.json",
+            "teeth-annotations-file": "tth-rph22-129.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-120.png",
+            "lesion-annotations-file": "lsn-rph22-120.json",
+            "teeth-annotations-file": "tth-rph22-120.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-121.png",
+            "lesion-annotations-file": "lsn-rph22-121.json",
+            "teeth-annotations-file": "tth-rph22-121.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-128.png",
+            "lesion-annotations-file": "lsn-rph22-128.json",
+            "teeth-annotations-file": "tth-rph22-128.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-129.png",
+            "lesion-annotations-file": "lsn-rph22-129.json",
+            "teeth-annotations-file": "tth-rph22-129.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-13.png",
+            "lesion-annotations-file": "lsn-rph22-139.json",
+            "teeth-annotations-file": "tth-rph22-139.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-132.png",
+            "lesion-annotations-file": "lsn-rph22-132.json",
+            "teeth-annotations-file": "tth-rph22-132.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-135.png",
+            "lesion-annotations-file": "lsn-rph22-135.json",
+            "teeth-annotations-file": "tth-rph22-135.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-136.png",
+            "lesion-annotations-file": "lsn-rph22-136.json",
+            "teeth-annotations-file": "tth-rph22-136.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-137.png",
+            "lesion-annotations-file": "lsn-rph22-137.json",
+            "teeth-annotations-file": "tth-rph22-137.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-139.png",
+            "lesion-annotations-file": "lsn-rph22-139.json",
+            "teeth-annotations-file": "tth-rph22-139.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-14.png",
+            "lesion-annotations-file": "lsn-rph22-142.json",
+            "teeth-annotations-file": "tth-rph22-142.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-141.png",
+            "lesion-annotations-file": "lsn-rph22-141.json",
+            "teeth-annotations-file": "tth-rph22-141.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-142.png",
+            "lesion-annotations-file": "lsn-rph22-142.json",
+            "teeth-annotations-file": "tth-rph22-142.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-17.png",
+            "lesion-annotations-file": "lsn-rph22-17.json",
+            "teeth-annotations-file": "tth-rph22-17.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-18.png",
+            "lesion-annotations-file": "lsn-rph22-189.json",
+            "teeth-annotations-file": "tth-rph22-189.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-180.png",
+            "lesion-annotations-file": "lsn-rph22-180.json",
+            "teeth-annotations-file": "tth-rph22-180.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-189.png",
+            "lesion-annotations-file": "lsn-rph22-189.json",
+            "teeth-annotations-file": "tth-rph22-189.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-19.png",
+            "lesion-annotations-file": "lsn-rph22-198.json",
+            "teeth-annotations-file": "tth-rph22-198.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-195.png",
+            "lesion-annotations-file": "lsn-rph22-195.json",
+            "teeth-annotations-file": "tth-rph22-195.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-198.png",
+            "lesion-annotations-file": "lsn-rph22-198.json",
+            "teeth-annotations-file": "tth-rph22-198.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-2.png",
+            "lesion-annotations-file": "lsn-rph22-27.json",
+            "teeth-annotations-file": "tth-rph22-27.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-21.png",
+            "lesion-annotations-file": "lsn-rph22-21.json",
+            "teeth-annotations-file": "tth-rph22-21.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-23.png",
+            "lesion-annotations-file": "lsn-rph22-23.json",
+            "teeth-annotations-file": "tth-rph22-23.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-25.png",
+            "lesion-annotations-file": "lsn-rph22-25.json",
+            "teeth-annotations-file": "tth-rph22-25.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-26.png",
+            "lesion-annotations-file": "lsn-rph22-26.json",
+            "teeth-annotations-file": "tth-rph22-26.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-27.png",
+            "lesion-annotations-file": "lsn-rph22-27.json",
+            "teeth-annotations-file": "tth-rph22-27.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-3.png",
+            "lesion-annotations-file": "lsn-rph22-39.json",
+            "teeth-annotations-file": "tth-rph22-39.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-30.png",
+            "lesion-annotations-file": "lsn-rph22-30.json",
+            "teeth-annotations-file": "tth-rph22-30.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-32.png",
+            "lesion-annotations-file": "lsn-rph22-32.json",
+            "teeth-annotations-file": "tth-rph22-32.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-33.png",
+            "lesion-annotations-file": "lsn-rph22-33.json",
+            "teeth-annotations-file": "tth-rph22-33.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-34.png",
+            "lesion-annotations-file": "lsn-rph22-34.json",
+            "teeth-annotations-file": "tth-rph22-34.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-35.png",
+            "lesion-annotations-file": "lsn-rph22-35.json",
+            "teeth-annotations-file": "tth-rph22-35.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-36.png",
+            "lesion-annotations-file": "lsn-rph22-36.json",
+            "teeth-annotations-file": "tth-rph22-36.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-37.png",
+            "lesion-annotations-file": "lsn-rph22-37.json",
+            "teeth-annotations-file": "tth-rph22-37.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-39.png",
+            "lesion-annotations-file": "lsn-rph22-39.json",
+            "teeth-annotations-file": "tth-rph22-39.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-4.png",
+            "lesion-annotations-file": "lsn-rph22-49.json",
+            "teeth-annotations-file": "tth-rph22-49.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-40.png",
+            "lesion-annotations-file": "lsn-rph22-40.json",
+            "teeth-annotations-file": "tth-rph22-40.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-41.png",
+            "lesion-annotations-file": "lsn-rph22-41.json",
+            "teeth-annotations-file": "tth-rph22-41.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-42.png",
+            "lesion-annotations-file": "lsn-rph22-42.json",
+            "teeth-annotations-file": "tth-rph22-42.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-44.png",
+            "lesion-annotations-file": "lsn-rph22-44.json",
+            "teeth-annotations-file": "tth-rph22-44.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-45.png",
+            "lesion-annotations-file": "lsn-rph22-45.json",
+            "teeth-annotations-file": "tth-rph22-45.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-46.png",
+            "lesion-annotations-file": "lsn-rph22-46.json",
+            "teeth-annotations-file": "tth-rph22-46.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-47.png",
+            "lesion-annotations-file": "lsn-rph22-47.json",
+            "teeth-annotations-file": "tth-rph22-47.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-48.png",
+            "lesion-annotations-file": "lsn-rph22-48.json",
+            "teeth-annotations-file": "tth-rph22-48.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-49.png",
+            "lesion-annotations-file": "lsn-rph22-49.json",
+            "teeth-annotations-file": "tth-rph22-49.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-5.png",
+            "lesion-annotations-file": "lsn-rph22-59.json",
+            "teeth-annotations-file": "tth-rph22-59.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-50.png",
+            "lesion-annotations-file": "lsn-rph22-50.json",
+            "teeth-annotations-file": "tth-rph22-50.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-51.png",
+            "lesion-annotations-file": "lsn-rph22-51.json",
+            "teeth-annotations-file": "tth-rph22-51.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-52.png",
+            "lesion-annotations-file": "lsn-rph22-52.json",
+            "teeth-annotations-file": "tth-rph22-52.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-53.png",
+            "lesion-annotations-file": "lsn-rph22-53.json",
+            "teeth-annotations-file": "tth-rph22-53.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-54.png",
+            "lesion-annotations-file": "lsn-rph22-54.json",
+            "teeth-annotations-file": "tth-rph22-54.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-55.png",
+            "lesion-annotations-file": "lsn-rph22-55.json",
+            "teeth-annotations-file": "tth-rph22-55.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-58.png",
+            "lesion-annotations-file": "lsn-rph22-58.json",
+            "teeth-annotations-file": "tth-rph22-58.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-59.png",
+            "lesion-annotations-file": "lsn-rph22-59.json",
+            "teeth-annotations-file": "tth-rph22-59.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-6.png",
+            "lesion-annotations-file": "lsn-rph22-69.json",
+            "teeth-annotations-file": "tth-rph22-69.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-60.png",
+            "lesion-annotations-file": "lsn-rph22-60.json",
+            "teeth-annotations-file": "tth-rph22-60.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-61.png",
+            "lesion-annotations-file": "lsn-rph22-61.json",
+            "teeth-annotations-file": "tth-rph22-61.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-62.png",
+            "lesion-annotations-file": "lsn-rph22-62.json",
+            "teeth-annotations-file": "tth-rph22-62.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-63.png",
+            "lesion-annotations-file": "lsn-rph22-63.json",
+            "teeth-annotations-file": "tth-rph22-63.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-64.png",
+            "lesion-annotations-file": "lsn-rph22-64.json",
+            "teeth-annotations-file": "tth-rph22-64.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-65.png",
+            "lesion-annotations-file": "lsn-rph22-65.json",
+            "teeth-annotations-file": "tth-rph22-65.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-66.png",
+            "lesion-annotations-file": "lsn-rph22-66.json",
+            "teeth-annotations-file": "tth-rph22-66.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-67.png",
+            "lesion-annotations-file": "lsn-rph22-67.json",
+            "teeth-annotations-file": "tth-rph22-67.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-68.png",
+            "lesion-annotations-file": "lsn-rph22-68.json",
+            "teeth-annotations-file": "tth-rph22-68.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-69.png",
+            "lesion-annotations-file": "lsn-rph22-69.json",
+            "teeth-annotations-file": "tth-rph22-69.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-72.png",
+            "lesion-annotations-file": "lsn-rph22-72.json",
+            "teeth-annotations-file": "tth-rph22-72.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-75.png",
+            "lesion-annotations-file": "lsn-rph22-75.json",
+            "teeth-annotations-file": "tth-rph22-75.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-78.png",
+            "lesion-annotations-file": "lsn-rph22-78.json",
+            "teeth-annotations-file": "tth-rph22-78.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-81.png",
+            "lesion-annotations-file": "lsn-rph22-81.json",
+            "teeth-annotations-file": "tth-rph22-81.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-83.png",
+            "lesion-annotations-file": "lsn-rph22-83.json",
+            "teeth-annotations-file": "tth-rph22-83.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-88.png",
+            "lesion-annotations-file": "lsn-rph22-88.json",
+            "teeth-annotations-file": "tth-rph22-88.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-89.png",
+            "lesion-annotations-file": "lsn-rph22-89.json",
+            "teeth-annotations-file": "tth-rph22-89.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-9.png",
+            "lesion-annotations-file": "lsn-rph22-97.json",
+            "teeth-annotations-file": "tth-rph22-97.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-91.png",
+            "lesion-annotations-file": "lsn-rph22-91.json",
+            "teeth-annotations-file": "tth-rph22-91.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-92.png",
+            "lesion-annotations-file": "lsn-rph22-92.json",
+            "teeth-annotations-file": "tth-rph22-92.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-93.png",
+            "lesion-annotations-file": "lsn-rph22-93.json",
+            "teeth-annotations-file": "tth-rph22-93.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-94.png",
+            "lesion-annotations-file": "lsn-rph22-94.json",
+            "teeth-annotations-file": "tth-rph22-94.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-95.png",
+            "lesion-annotations-file": "lsn-rph22-95.json",
+            "teeth-annotations-file": "tth-rph22-95.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-96.png",
+            "lesion-annotations-file": "lsn-rph22-96.json",
+            "teeth-annotations-file": "tth-rph22-96.json"
+        },
+        {
+            "source": "riphah",
+            "year": "2022",
+            "file": "rph22-97.png",
+            "lesion-annotations-file": "lsn-rph22-97.json",
+            "teeth-annotations-file": "tth-rph22-97.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1004.jpg",
+            "lesion-annotations-file": "lsn-tft22-1004.json",
+            "teeth-annotations-file": "tth-tft22-1004.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1010.jpg",
+            "lesion-annotations-file": "lsn-tft22-1010.json",
+            "teeth-annotations-file": "tth-tft22-1010.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1011.jpg",
+            "lesion-annotations-file": "lsn-tft22-1011.json",
+            "teeth-annotations-file": "tth-tft22-1011.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1015.jpg",
+            "lesion-annotations-file": "lsn-tft22-1015.json",
+            "teeth-annotations-file": "tth-tft22-1015.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1016.jpg",
+            "lesion-annotations-file": "lsn-tft22-1016.json",
+            "teeth-annotations-file": "tth-tft22-1016.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1018.jpg",
+            "lesion-annotations-file": "lsn-tft22-1018.json",
+            "teeth-annotations-file": "tth-tft22-1018.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1031.jpg",
+            "lesion-annotations-file": "lsn-tft22-1031.json",
+            "teeth-annotations-file": "tth-tft22-1031.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1032.jpg",
+            "lesion-annotations-file": "lsn-tft22-1032.json",
+            "teeth-annotations-file": "tth-tft22-1032.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1034.jpg",
+            "lesion-annotations-file": "lsn-tft22-1034.json",
+            "teeth-annotations-file": "tth-tft22-1034.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1036.jpg",
+            "lesion-annotations-file": "lsn-tft22-1036.json",
+            "teeth-annotations-file": "tth-tft22-1036.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1038.jpg",
+            "lesion-annotations-file": "lsn-tft22-1038.json",
+            "teeth-annotations-file": "tth-tft22-1038.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-1051.jpg",
+            "lesion-annotations-file": "lsn-tft22-1051.json",
+            "teeth-annotations-file": "tth-tft22-1051.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-121.jpg",
+            "lesion-annotations-file": "lsn-tft22-121.json",
+            "teeth-annotations-file": "tth-tft22-121.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-133.jpg",
+            "lesion-annotations-file": "lsn-tft22-133.json",
+            "teeth-annotations-file": "tth-tft22-133.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-148.jpg",
+            "lesion-annotations-file": "lsn-tft22-148.json",
+            "teeth-annotations-file": "tth-tft22-148.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-179.jpg",
+            "lesion-annotations-file": "lsn-tft22-179.json",
+            "teeth-annotations-file": "tth-tft22-179.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-182.jpg",
+            "lesion-annotations-file": "lsn-tft22-182.json",
+            "teeth-annotations-file": "tth-tft22-182.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-183.jpg",
+            "lesion-annotations-file": "lsn-tft22-183.json",
+            "teeth-annotations-file": "tth-tft22-183.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-214.jpg",
+            "lesion-annotations-file": "lsn-tft22-214.json",
+            "teeth-annotations-file": "tth-tft22-214.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-244.jpg",
+            "lesion-annotations-file": "lsn-tft22-244.json",
+            "teeth-annotations-file": "tth-tft22-244.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-273.jpg",
+            "lesion-annotations-file": "lsn-tft22-273.json",
+            "teeth-annotations-file": "tth-tft22-273.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-276.jpg",
+            "lesion-annotations-file": "lsn-tft22-276.json",
+            "teeth-annotations-file": "tth-tft22-276.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-281.jpg",
+            "lesion-annotations-file": "lsn-tft22-281.json",
+            "teeth-annotations-file": "tth-tft22-281.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-329.jpg",
+            "lesion-annotations-file": "lsn-tft22-329.json",
+            "teeth-annotations-file": "tth-tft22-329.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-331.jpg",
+            "lesion-annotations-file": "lsn-tft22-331.json",
+            "teeth-annotations-file": "tth-tft22-331.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-333.jpg",
+            "lesion-annotations-file": "lsn-tft22-333.json",
+            "teeth-annotations-file": "tth-tft22-333.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-341.jpg",
+            "lesion-annotations-file": "lsn-tft22-341.json",
+            "teeth-annotations-file": "tth-tft22-341.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-359.jpg",
+            "lesion-annotations-file": "lsn-tft22-359.json",
+            "teeth-annotations-file": "tth-tft22-359.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-366.jpg",
+            "lesion-annotations-file": "lsn-tft22-366.json",
+            "teeth-annotations-file": "tth-tft22-366.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-380.jpg",
+            "lesion-annotations-file": "lsn-tft22-380.json",
+            "teeth-annotations-file": "tth-tft22-380.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-385.jpg",
+            "lesion-annotations-file": "lsn-tft22-385.json",
+            "teeth-annotations-file": "tth-tft22-385.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-396.jpg",
+            "lesion-annotations-file": "lsn-tft22-396.json",
+            "teeth-annotations-file": "tth-tft22-396.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-398.jpg",
+            "lesion-annotations-file": "lsn-tft22-398.json",
+            "teeth-annotations-file": "tth-tft22-398.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-427.jpg",
+            "lesion-annotations-file": "lsn-tft22-427.json",
+            "teeth-annotations-file": "tth-tft22-427.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-452.jpg",
+            "lesion-annotations-file": "lsn-tft22-452.json",
+            "teeth-annotations-file": "tth-tft22-452.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-462.jpg",
+            "lesion-annotations-file": "lsn-tft22-462.json",
+            "teeth-annotations-file": "tth-tft22-462.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-473.jpg",
+            "lesion-annotations-file": "lsn-tft22-473.json",
+            "teeth-annotations-file": "tth-tft22-473.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-491.jpg",
+            "lesion-annotations-file": "lsn-tft22-491.json",
+            "teeth-annotations-file": "tth-tft22-491.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-503.jpg",
+            "lesion-annotations-file": "lsn-tft22-503.json",
+            "teeth-annotations-file": "tth-tft22-503.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-504.jpg",
+            "lesion-annotations-file": "lsn-tft22-504.json",
+            "teeth-annotations-file": "tth-tft22-504.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-518.jpg",
+            "lesion-annotations-file": "lsn-tft22-518.json",
+            "teeth-annotations-file": "tth-tft22-518.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-527.jpg",
+            "lesion-annotations-file": "lsn-tft22-527.json",
+            "teeth-annotations-file": "tth-tft22-527.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-531.jpg",
+            "lesion-annotations-file": "lsn-tft22-531.json",
+            "teeth-annotations-file": "tth-tft22-531.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-535.jpg",
+            "lesion-annotations-file": "lsn-tft22-535.json",
+            "teeth-annotations-file": "tth-tft22-535.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-536.jpg",
+            "lesion-annotations-file": "lsn-tft22-536.json",
+            "teeth-annotations-file": "tth-tft22-536.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-539.jpg",
+            "lesion-annotations-file": "lsn-tft22-539.json",
+            "teeth-annotations-file": "tth-tft22-539.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-542.jpg",
+            "lesion-annotations-file": "lsn-tft22-542.json",
+            "teeth-annotations-file": "tth-tft22-542.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-545.jpg",
+            "lesion-annotations-file": "lsn-tft22-545.json",
+            "teeth-annotations-file": "tth-tft22-545.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-546.jpg",
+            "lesion-annotations-file": "lsn-tft22-546.json",
+            "teeth-annotations-file": "tth-tft22-546.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-551.jpg",
+            "lesion-annotations-file": "lsn-tft22-551.json",
+            "teeth-annotations-file": "tth-tft22-551.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-553.jpg",
+            "lesion-annotations-file": "lsn-tft22-553.json",
+            "teeth-annotations-file": "tth-tft22-553.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-563.jpg",
+            "lesion-annotations-file": "lsn-tft22-563.json",
+            "teeth-annotations-file": "tth-tft22-563.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-581.jpg",
+            "lesion-annotations-file": "lsn-tft22-581.json",
+            "teeth-annotations-file": "tth-tft22-581.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-582.jpg",
+            "lesion-annotations-file": "lsn-tft22-582.json",
+            "teeth-annotations-file": "tth-tft22-582.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-589.jpg",
+            "lesion-annotations-file": "lsn-tft22-589.json",
+            "teeth-annotations-file": "tth-tft22-589.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-603.jpg",
+            "lesion-annotations-file": "lsn-tft22-603.json",
+            "teeth-annotations-file": "tth-tft22-603.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-604.jpg",
+            "lesion-annotations-file": "lsn-tft22-604.json",
+            "teeth-annotations-file": "tth-tft22-604.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-614.jpg",
+            "lesion-annotations-file": "lsn-tft22-614.json",
+            "teeth-annotations-file": "tth-tft22-614.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-617.jpg",
+            "lesion-annotations-file": "lsn-tft22-617.json",
+            "teeth-annotations-file": "tth-tft22-617.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-618.jpg",
+            "lesion-annotations-file": "lsn-tft22-618.json",
+            "teeth-annotations-file": "tth-tft22-618.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-624.jpg",
+            "lesion-annotations-file": "lsn-tft22-624.json",
+            "teeth-annotations-file": "tth-tft22-624.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-627.jpg",
+            "lesion-annotations-file": "lsn-tft22-627.json",
+            "teeth-annotations-file": "tth-tft22-627.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-637.jpg",
+            "lesion-annotations-file": "lsn-tft22-637.json",
+            "teeth-annotations-file": "tth-tft22-637.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-641.jpg",
+            "lesion-annotations-file": "lsn-tft22-641.json",
+            "teeth-annotations-file": "tth-tft22-641.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-645.jpg",
+            "lesion-annotations-file": "lsn-tft22-645.json",
+            "teeth-annotations-file": "tth-tft22-645.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-653.jpg",
+            "lesion-annotations-file": "lsn-tft22-653.json",
+            "teeth-annotations-file": "tth-tft22-653.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-67.jpg",
+            "lesion-annotations-file": "lsn-tft22-672.json",
+            "teeth-annotations-file": "tth-tft22-672.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-670.jpg",
+            "lesion-annotations-file": "lsn-tft22-670.json",
+            "teeth-annotations-file": "tth-tft22-670.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-672.jpg",
+            "lesion-annotations-file": "lsn-tft22-672.json",
+            "teeth-annotations-file": "tth-tft22-672.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-681.jpg",
+            "lesion-annotations-file": "lsn-tft22-681.json",
+            "teeth-annotations-file": "tth-tft22-681.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-704.jpg",
+            "lesion-annotations-file": "lsn-tft22-704.json",
+            "teeth-annotations-file": "tth-tft22-704.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-716.jpg",
+            "lesion-annotations-file": "lsn-tft22-716.json",
+            "teeth-annotations-file": "tth-tft22-716.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-720.jpg",
+            "lesion-annotations-file": "lsn-tft22-720.json",
+            "teeth-annotations-file": "tth-tft22-720.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-733.jpg",
+            "lesion-annotations-file": "lsn-tft22-733.json",
+            "teeth-annotations-file": "tth-tft22-733.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-745.jpg",
+            "lesion-annotations-file": "lsn-tft22-745.json",
+            "teeth-annotations-file": "tth-tft22-745.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-746.jpg",
+            "lesion-annotations-file": "lsn-tft22-746.json",
+            "teeth-annotations-file": "tth-tft22-746.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-747.jpg",
+            "lesion-annotations-file": "lsn-tft22-747.json",
+            "teeth-annotations-file": "tth-tft22-747.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-750.jpg",
+            "lesion-annotations-file": "lsn-tft22-750.json",
+            "teeth-annotations-file": "tth-tft22-750.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-752.jpg",
+            "lesion-annotations-file": "lsn-tft22-752.json",
+            "teeth-annotations-file": "tth-tft22-752.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-753.jpg",
+            "lesion-annotations-file": "lsn-tft22-753.json",
+            "teeth-annotations-file": "tth-tft22-753.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-768.jpg",
+            "lesion-annotations-file": "lsn-tft22-768.json",
+            "teeth-annotations-file": "tth-tft22-768.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-769.jpg",
+            "lesion-annotations-file": "lsn-tft22-769.json",
+            "teeth-annotations-file": "tth-tft22-769.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-784.jpg",
+            "lesion-annotations-file": "lsn-tft22-784.json",
+            "teeth-annotations-file": "tth-tft22-784.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-785.jpg",
+            "lesion-annotations-file": "lsn-tft22-785.json",
+            "teeth-annotations-file": "tth-tft22-785.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-8.jpg",
+            "lesion-annotations-file": "lsn-tft22-883.json",
+            "teeth-annotations-file": "tth-tft22-883.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-80.jpg",
+            "lesion-annotations-file": "lsn-tft22-80.json",
+            "teeth-annotations-file": "tth-tft22-80.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-815.jpg",
+            "lesion-annotations-file": "lsn-tft22-815.json",
+            "teeth-annotations-file": "tth-tft22-815.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-827.jpg",
+            "lesion-annotations-file": "lsn-tft22-827.json",
+            "teeth-annotations-file": "tth-tft22-827.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-84.jpg",
+            "lesion-annotations-file": "lsn-tft22-847.json",
+            "teeth-annotations-file": "tth-tft22-847.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-841.jpg",
+            "lesion-annotations-file": "lsn-tft22-841.json",
+            "teeth-annotations-file": "tth-tft22-841.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-844.jpg",
+            "lesion-annotations-file": "lsn-tft22-844.json",
+            "teeth-annotations-file": "tth-tft22-844.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-847.jpg",
+            "lesion-annotations-file": "lsn-tft22-847.json",
+            "teeth-annotations-file": "tth-tft22-847.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-852.jpg",
+            "lesion-annotations-file": "lsn-tft22-852.json",
+            "teeth-annotations-file": "tth-tft22-852.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-860.jpg",
+            "lesion-annotations-file": "lsn-tft22-860.json",
+            "teeth-annotations-file": "tth-tft22-860.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-877.jpg",
+            "lesion-annotations-file": "lsn-tft22-877.json",
+            "teeth-annotations-file": "tth-tft22-877.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-883.jpg",
+            "lesion-annotations-file": "lsn-tft22-883.json",
+            "teeth-annotations-file": "tth-tft22-883.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-904.jpg",
+            "lesion-annotations-file": "lsn-tft22-904.json",
+            "teeth-annotations-file": "tth-tft22-904.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-907.jpg",
+            "lesion-annotations-file": "lsn-tft22-907.json",
+            "teeth-annotations-file": "tth-tft22-907.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-918.jpg",
+            "lesion-annotations-file": "lsn-tft22-918.json",
+            "teeth-annotations-file": "tth-tft22-918.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-919.jpg",
+            "lesion-annotations-file": "lsn-tft22-919.json",
+            "teeth-annotations-file": "tth-tft22-919.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-925.jpg",
+            "lesion-annotations-file": "lsn-tft22-925.json",
+            "teeth-annotations-file": "tth-tft22-925.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-927.jpg",
+            "lesion-annotations-file": "lsn-tft22-927.json",
+            "teeth-annotations-file": "tth-tft22-927.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-929.jpg",
+            "lesion-annotations-file": "lsn-tft22-929.json",
+            "teeth-annotations-file": "tth-tft22-929.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-933.jpg",
+            "lesion-annotations-file": "lsn-tft22-933.json",
+            "teeth-annotations-file": "tth-tft22-933.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-940.jpg",
+            "lesion-annotations-file": "lsn-tft22-940.json",
+            "teeth-annotations-file": "tth-tft22-940.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-948.jpg",
+            "lesion-annotations-file": "lsn-tft22-948.json",
+            "teeth-annotations-file": "tth-tft22-948.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-952.jpg",
+            "lesion-annotations-file": "lsn-tft22-952.json",
+            "teeth-annotations-file": "tth-tft22-952.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-957.jpg",
+            "lesion-annotations-file": "lsn-tft22-957.json",
+            "teeth-annotations-file": "tth-tft22-957.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-958.jpg",
+            "lesion-annotations-file": "lsn-tft22-958.json",
+            "teeth-annotations-file": "tth-tft22-958.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-963.jpg",
+            "lesion-annotations-file": "lsn-tft22-963.json",
+            "teeth-annotations-file": "tth-tft22-963.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-966.jpg",
+            "lesion-annotations-file": "lsn-tft22-966.json",
+            "teeth-annotations-file": "tth-tft22-966.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-975.jpg",
+            "lesion-annotations-file": "lsn-tft22-975.json",
+            "teeth-annotations-file": "tth-tft22-975.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-976.jpg",
+            "lesion-annotations-file": "lsn-tft22-976.json",
+            "teeth-annotations-file": "tth-tft22-976.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-979.jpg",
+            "lesion-annotations-file": "lsn-tft22-979.json",
+            "teeth-annotations-file": "tth-tft22-979.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-980.jpg",
+            "lesion-annotations-file": "lsn-tft22-980.json",
+            "teeth-annotations-file": "tth-tft22-980.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-982.jpg",
+            "lesion-annotations-file": "lsn-tft22-982.json",
+            "teeth-annotations-file": "tth-tft22-982.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-983.jpg",
+            "lesion-annotations-file": "lsn-tft22-983.json",
+            "teeth-annotations-file": "tth-tft22-983.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-989.jpg",
+            "lesion-annotations-file": "lsn-tft22-989.json",
+            "teeth-annotations-file": "tth-tft22-989.json"
+        },
+        {
+            "source": "tufts",
+            "year": "2022",
+            "file": "tft22-992.jpg",
+            "lesion-annotations-file": "lsn-tft22-992.json",
+            "teeth-annotations-file": "tth-tft22-992.json"
+        }
+    ]
+}

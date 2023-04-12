@@ -1,2 +1,2 @@
-# opg-classification-lesion-detection
-Open-source project for classification, masking and lesion detection on Dental OPG images.
+# dental-opg-classification
+Python project for lesion classification from OPGs
